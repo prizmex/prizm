@@ -1,0 +1,240 @@
+
+*************************
+Chrome
+*************************
+
+Хост: http://192.168.0.1/login.cgi
+Логин: admin
+Пароль: admin1
+
+*************************
+Opera
+*************************
+
+Хост: http://herc.ws/board/index.php
+Логин: defgh
+Пароль: zxcvbnmn9
+===============
+Хост: https://skladchik.com/login/login
+Логин: mymail4reg@mail.ru
+Пароль: zxcvbv
+===============
+Хост: https://connect.ok.ru/dk
+Логин: 79233967203
+Пароль: 19titvp55
+===============
+Хост: https://rutube.ru/accounts/login/
+Логин: mymail4reg@mail.ru
+Пароль: zxcvbnmn9
+===============
+Хост: https://www.betburger.com/users/sign_in
+Логин: mymail4reg@mail.ru
+Пароль: zxcvbnmn910
+===============
+Хост: https://s07.host-food.ru:1500/ispmgr
+Логин: h107428
+Пароль: Xq7wVEk0c
+===============
+Хост: https://passport.yandex.ru/auth
+Логин: hiresult
+Пароль: eg4rvgvrryp2
+===============
+Хост: https://passport.yandex.ru/auth
+Логин: hiresult
+Пароль: eg4rvgvrryp2
+===============
+Хост: https://auth.mail.ru/cgi-bin/auth
+Логин: mymail4reg
+Пароль: mits2940484444
+===============
+Хост: https://passport.aliexpress.com/mini_login.htm
+Логин: mym4r1@mail.ru
+Пароль: eg4rvgvrrae
+===============
+Хост: http://trading-soft.ru/wp-login.php
+Логин: vvp
+Пароль: eg4rvgvrrpwp
+===============
+Хост: http://reg.2domains.ru/login.php
+Логин: vic_vp@mail.ru
+Пароль: eg4rvgvrr2d
+===============
+Хост: http://nnmclub.to/forum/login.php
+Логин: defgh
+Пароль: zxcvbnmn9
+===============
+Хост: https://www.1day1step.ru/
+Логин: katalog-kursov@mail.ru
+Пароль: eg4rvgvrr1d1s
+===============
+Хост: https://auth.jino.ru/login/
+Логин: mym4r1
+Пароль: eg4rvgvrrdh
+===============
+Хост: https://overhash.com/Auth
+Логин: vicv
+Пароль: eg4rvgvrroh)%1
+===============
+Хост: https://login.live.com/ppsecure/post.srf
+Логин: vic_vp
+Пароль: mits2940484444
+===============
+Хост: https://auth.mail.ru/cgi-bin/auth
+Логин: hiresult
+Пароль: eg4rvgvrrbk
+===============
+Хост: https://auth.mail.ru/cgi-bin/auth
+Логин: hiresult
+Пароль: eg4rvgvrrbk
+===============
+Хост: http://www.cellsea.com/user/signup/do
+Логин: mym4r1@mail.ru
+Пароль: zxcvbnmn
+===============
+Хост: http://vimperor.ru/signup
+Логин: df@mail.ru
+Пароль: zxcvbv
+===============
+Хост: https://forum-treiderov.com/index.php/register
+Логин: mymail4reg@mail.ru
+Пароль: zxcvbnmn9
+===============
+Хост: https://passport.yandex.ru/auth
+Логин: hsdpa08@yandex.ru
+Пароль: eg4rvgvrrym
+===============
+Хост: https://passport.yandex.ru/passport
+Логин: hsdpa08@yandex.ru
+Пароль: eg4rvgvrrym
+===============
+Хост: http://smart-lab.ru/login/
+Логин: bestt
+Пароль: zxcvbv
+===============
+Хост: https://passport.yandex.ru/auth
+Логин: hsdpa08@yandex.ru
+Пароль: eg4rvgvrrym
+===============
+Хост: https://www.dropbox.com/ajax_login
+Логин: mymail4reg@mail.ru
+Пароль: mits294048dropbox4444
+===============
+Хост: https://my.digiseller.ru/inside/ad.asp
+Логин: defgh
+Пароль: eg4rvgvrrds
+===============
+Хост: https://account.skrill.com/login
+Логин: vic_vp@mail.ru
+Пароль: eg4rvgvrrskrill2
+===============
+Хост: https://auth.jino.ru/login/
+Логин: mym4r1
+Пароль: eg4rvgvrrdh
+===============
+Хост: https://www.ok.ru/https
+Логин: 79233967203
+Пароль: 19titvp55
+===============
+Хост: https://quikluacsharp.ru/wp-login.php
+Логин: defgh
+Пароль: zxcvbnmn010
+===============
+Хост: https://auth.mail.ru/cgi-bin/auth
+Логин: vic_vp
+Пароль: mits294048mailru4444
+===============
+Хост: https://epn.bz/ru/auth/login
+Логин: mym4r1@mail.ru
+Пароль: Eg4rvgvrrec
+===============
+Хост: https://login.vk.com/
+Логин: mymail4reg@mail.ru
+Пароль: vk2012mits2940484444
+===============
+Хост: https://auth.mail.ru/cgi-bin/auth
+Логин: vic_vp
+Пароль: mits294048mailru4444
+===============
+Хост: https://reg.2domains.ru/login.php
+Логин: vic_vp@mail.ru
+Пароль: eg4rvgvrr2d
+===============
+Хост: https://auth.jino.ru/login/
+Логин: mym4r1
+Пароль: eg4rvgvrrdh
+===============
+Хост: https://auth.mail.ru/cgi-bin/auth
+Логин: mymail4reg
+Пароль: mits2940484444
+===============
+Хост: https://coinfaucet.io/AFM/Account/SignUp
+Логин: mym4r1@mail.ru
+Пароль: eg4rvgvrrcf1
+===============
+Хост: https://mail.ru/
+Логин: lady.reif
+Пароль: 20195512v
+===============
+Хост: https://mail.ru/
+Логин: hiresult
+Пароль: eg4rvgvrrbk
+===============
+Хост: http://daytradingschool.e-autopay.com/aff/login.php
+Логин: tradingsoft
+Пароль: 527zi5vyrcyl
+===============
+Хост: https://smart-lab.ru/login/
+Логин: NightFuria
+Пароль: zxcvbnmn9
+===============
+Хост: https://lk.rt.ru/
+Логин: dsl3102131
+Пароль: Eg4rvgvrrrt.
+===============
+Хост: https://itv.rt.ru/channels
+Логин: mym4r1@mail.ru
+Пароль: eg4rvgvrritv
+===============
+Хост: https://nnmclub.to/forum/login.php
+Логин: defgh
+Пароль: zxcvbnmn9
+===============
+Хост: https://mail.ru/
+Логин: vic_vp
+Пароль: mits294048mailru4444
+===============
+Хост: http://rich-birds.com/signin
+Логин: mym4r1@mail.ru
+Пароль: zxcvbnmn9
+===============
+Хост: https://auth.jino.ru/login/
+Логин: mym4r1
+Пароль: eg4rvgvrrdh
+===============
+Хост: https://accounts.google.com/signin/v2/challenge/password/empty
+Логин: hsdpa08
+Пароль: eg4rvgvrrga!
+===============
+Хост: https://passport.yandex.ru/auth
+Логин: hsdpa08@yandex.ru
+Пароль: eg4rvgvrrym
+===============
+Хост: https://passport.yandex.ru/auth
+Логин: hsdpa08@yandex.ru
+Пароль: eg4rvgvrrym
+===============
+Хост: https://login.vk.com/
+Логин: mymail4reg@mail.ru
+Пароль: vk2012mits2940484444
+===============
+Хост: https://mail.ru/
+Логин: mymail4reg
+Пароль: mits2940484444
+===============
+Хост: https://forum-treiderov.com/index.php
+Логин: defgh
+Пароль: zxcvbnmn91011
+===============
+Хост: https://smart-lab.ru/login/
+Логин: bestt
+Пароль: zxcvbv
